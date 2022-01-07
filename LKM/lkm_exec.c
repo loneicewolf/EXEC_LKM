@@ -32,5 +32,5 @@ static int __init LHP_KERN_init(void){
 }
 
 static void __exit LHP_KERN_exit(void){
-  // exit
+  printk("\t\e[42mLOCKHEED_EXIT [-]\e[0m");
 }
