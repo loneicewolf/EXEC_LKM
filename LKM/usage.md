@@ -1,3 +1,8 @@
+## TODO:
+- [ ] Update this to a more recent version. we can include app parameter now. As seen in the POCS Folder.
+
+
+
 ## Usage
 
 In a terminal (denoted T1):
