@@ -7,5 +7,6 @@ to execute a command as root;
 I include a example of using netcat and a 
 compiled(with source and steps on how to compile) reverse shell provided in C. 
 
+Note, this is not really a rootkit-per-say but a part of one, more specifically.
 
 </details>
