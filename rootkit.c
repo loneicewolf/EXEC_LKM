@@ -50,5 +50,5 @@ static int __init rk_init(void){
 }
 
 static void __exit rk_exit(void){
-	printk("[-]LKM unloaed");
+	printk("[-]LKM unloaded");
 }
