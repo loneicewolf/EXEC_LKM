@@ -1,4 +1,5 @@
 # EXEC_LKM
+note; the file is called `rootkit.c` because.. I couldn't find a better name for it. heh
 
 A LKM (Loadable Kernel Module) 
 to execute a command as root;
